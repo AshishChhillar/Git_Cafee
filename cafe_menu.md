@@ -9,3 +9,4 @@ This is menu folder
 3. Indo
 4. ample oats
 5. Cake
+6. Ice-tea 
